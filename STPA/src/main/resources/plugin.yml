@@ -1,0 +1,10 @@
+name: STPA
+version: ${project.version}
+main: me.gsy.stpa.STPA
+api-version: 1.17
+author: GSY
+commands:
+ tpa:
+  description: tpa PLAYER;tpa yes/no
+ tpahere:
+  description: tpahere PLAYER;tpahere yes/no
