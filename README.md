@@ -1,3 +1,29 @@
 # STPA
-a spigot minecraft plugin
-contact me at 2414356997@qq.com or join our group chat(882038510) on Tencent QQ
+
+---本人刚开始学习做插件，如有任何不妥之处还请多多包涵有任何想法和建议欢迎加qq群:882038510
+
+<br/>
+
+## tpa功能使用图片：
+
+玩家gsy视角
+![1.png](79dac6c436247c172d3ef44d5cee258e.png)
+
+自动补全玩家名称和检查语法错误（防止服务端奔溃）
+
+![2.png](3f37e5238609d7d1fc8c5ffd77a6ec0c.png)
+
+发送传送请求给玩家gssy
+玩家gssy视角
+
+![3.png](94654c9b276ddc466dfded49ea362362.png)
+
+提示玩家gsy申请传送
+![4.png](47f2075d826976ee00d5537f9c85e06a.png)
+
+处理传送请求自动补全
+
+## 功能
+
+/tpa 申请传送到另一名玩家
+/tpahere 申请让另一位玩家传送到自己这里
